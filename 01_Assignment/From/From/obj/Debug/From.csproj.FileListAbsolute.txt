@@ -1,0 +1,15 @@
+C:\.NET\01_Assignment\From\From\bin\Debug\From.exe.config
+C:\.NET\01_Assignment\From\From\bin\Debug\From.exe
+C:\.NET\01_Assignment\From\From\bin\Debug\From.pdb
+C:\.NET\01_Assignment\From\From\obj\Debug\From.csproj.AssemblyReference.cache
+C:\.NET\01_Assignment\From\From\obj\Debug\MainWindow.g.cs
+C:\.NET\01_Assignment\From\From\obj\Debug\App.g.cs
+C:\.NET\01_Assignment\From\From\obj\Debug\From_MarkupCompile.cache
+C:\.NET\01_Assignment\From\From\obj\Debug\From_MarkupCompile.lref
+C:\.NET\01_Assignment\From\From\obj\Debug\MainWindow.baml
+C:\.NET\01_Assignment\From\From\obj\Debug\From.g.resources
+C:\.NET\01_Assignment\From\From\obj\Debug\From.Properties.Resources.resources
+C:\.NET\01_Assignment\From\From\obj\Debug\From.csproj.GenerateResource.cache
+C:\.NET\01_Assignment\From\From\obj\Debug\From.csproj.CoreCompileInputs.cache
+C:\.NET\01_Assignment\From\From\obj\Debug\From.exe
+C:\.NET\01_Assignment\From\From\obj\Debug\From.pdb

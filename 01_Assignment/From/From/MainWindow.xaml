@@ -1,0 +1,22 @@
+﻿<Window x:Class="From.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:From"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="lb_username" Width="803.6">
+        <ListBox x:Name="lb_text" HorizontalAlignment="Left" Height="4.839" Margin="271.699,70.374,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb_login" Content="login from" HorizontalAlignment="Left" Height="28.413" Margin="404.934,19.6,0,0" VerticalAlignment="Top" Width="150.4" AutomationProperties.Name="login from" Background="{x:Null}" Foreground="#FF26DDCD"/>
+        <Label x:Name="lb_login_Copy" Content="login from" HorizontalAlignment="Left" Height="28.413" Margin="404.934,19.6,0,0" VerticalAlignment="Top" Width="150.4" AutomationProperties.Name="login from" Background="{x:Null}" Foreground="#FF26DDCD"/>
+        <Label x:Name="lb_login_Copy1" Content="" HorizontalAlignment="Left" Height="34" Margin="404.934,19.6,0,0" VerticalAlignment="Top" Width="150.4" AutomationProperties.Name="login from" Background="{x:Null}" Foreground="#FF26DDCD"/>
+        <Label Content="Username" HorizontalAlignment="Left" Height="33.601" Margin="228.4,118.266,0,0" VerticalAlignment="Top" Width="83.733" Foreground="#FF1BE4E8"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="3.2" Margin="236.933,200.4,0,0" VerticalAlignment="Top" Width="22.4"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="228.4,199.077,0,0" VerticalAlignment="Top" Width="83.733" Foreground="#FF1AEDE9"/>
+        <TextBox x:Name="tx_user" HorizontalAlignment="Left" Height="22.401" Margin="426.267,118.266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="243.2"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Height="28.266" Margin="391.6,288.4,0,0" VerticalAlignment="Top" Width="94.933" Foreground="#FFE70D6B"/>
+        <PasswordBox HorizontalAlignment="Left" Height="24.637" Margin="426.267,200.4,0,0" VerticalAlignment="Top" Width="243.2"/>
+
+    </Grid>
+</Window>
