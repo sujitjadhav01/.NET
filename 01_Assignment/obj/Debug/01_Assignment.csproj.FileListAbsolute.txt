@@ -1,0 +1,12 @@
+E:\.Net\01_Assignment\bin\Debug\01_Assignment.exe.config
+E:\.Net\01_Assignment\bin\Debug\01_Assignment.exe
+E:\.Net\01_Assignment\bin\Debug\01_Assignment.pdb
+E:\.Net\01_Assignment\obj\Debug\01_Assignment.csproj.AssemblyReference.cache
+E:\.Net\01_Assignment\obj\Debug\_01_Assignment.frm_Login.resources
+E:\.Net\01_Assignment\obj\Debug\_01_Assignment.Properties.Resources.resources
+E:\.Net\01_Assignment\obj\Debug\01_Assignment.csproj.GenerateResource.cache
+E:\.Net\01_Assignment\obj\Debug\01_Assignment.csproj.CoreCompileInputs.cache
+E:\.Net\01_Assignment\obj\Debug\01_Assignment.exe
+E:\.Net\01_Assignment\obj\Debug\01_Assignment.pdb
+E:\.Net\01_Assignment\obj\Debug\_01_Assignment.frm_Add_Student.resources
+E:\.Net\01_Assignment\obj\Debug\_01_Assignment.frm_Student_list.resources
